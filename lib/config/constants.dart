@@ -5,7 +5,7 @@ class ApiConfig {
 
   /// Tu clave de API de RapidAPI
   /// Obtén la tuya en: https://rapidapi.com/ousema.frikha/api/forex-factory-scraper1
-  static const String rapidApiKey = 'asdasdasdasdasdasdas';
+  static const String rapidApiKey = '2c9e84b9c4msha20e841099515a7p194c48jsn31cfcdfadc76';
 
   /// Host de RapidAPI
   static const String rapidApiHost = 'forex-factory-scraper1.p.rapidapi.com';
